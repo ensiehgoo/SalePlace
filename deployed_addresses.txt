@@ -1,0 +1,2 @@
+Contract deployed on Rinkeby at address '0x5526d108B8A002Ec2A46d000bB31FD35D263cD5c'
+Rinkeby Etherscan URL: https://rinkeby.etherscan.io/address/0x5526d108b8a002ec2a46d000bb31fd35d263cd5c
