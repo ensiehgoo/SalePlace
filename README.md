@@ -45,7 +45,7 @@ Sale Place is a blockchain-based e-commerce app. There is two types of users buy
     sudo apt-get install -y nodejs
 5. Install project dependencies
     ```sh
-    git clone https://github.com/anandmv/Sale-Place
+    git clone https://github.com/ensiehgoo/SalePlace
     cd Sale-Place/client
     npm install
     ```
