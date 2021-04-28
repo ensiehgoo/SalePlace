@@ -46,7 +46,7 @@ Sale Place is a blockchain-based e-commerce app. There is two types of users buy
 5. Install project dependencies
     ```sh
     git clone https://github.com/ensiehgoo/SalePlace
-    cd Sale-Place/client
+    cd SalePlace/client
     npm install
     ```
 6. After cloning this project delete all the json files from this path("SalePlace/client/src/contracts/") of the project.
