@@ -84,9 +84,10 @@ Then leave it open like that.
     ```
     candy maple cake sugar pudding cream honey rich smooth crumble sweet treat 
     ```
-    Add the custom RPC endpoint when choosing a network: 
+    Add the custom RPC endpoint when choosing a network in metamask and only for testing purpose you can import accounts from ganache through private key: 
     ```
     http://127.0.0.1:7545 
+    
     ```
     and then refresh the app page.Please confirm the network url from the truffle GUI/CLI 
     Once the app recognizes your MetaMask account you are good to go!
