@@ -66,7 +66,7 @@ Then leave it open like that.
 
 8. Run the Truffle development console.
     ```sh
-    cd Sale-Place
+    cd SalePlace
     truffle develop
     # switch back to console one (truffle console)
     compile
@@ -76,7 +76,7 @@ Then leave it open like that.
 9. Start the React front end from the local server
     ```sh
     # console three
-    cd Sale-Place/client
+    cd SalePlace/client
     npm run start
     ```
     Be sure to configure MetaMask using the the mnemonic phrase provided by your ganache:
