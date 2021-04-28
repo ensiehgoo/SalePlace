@@ -49,7 +49,7 @@ Sale Place is a blockchain-based e-commerce app. There is two types of users buy
     cd Sale-Place/client
     npm install
     ```
-6. After cloning this project delete all the json files from this path("350_Decentralized_MarketPlace/client/src/contracts/") of the project.
+6. After cloning this project delete all the json files from this path("SalePlace/client/src/contracts/") of the project.
 7. After downloading ganache ui, open this in your pc, click the new workspace button here.
 
 ![alt text](https://1.bp.blogspot.com/-hqMhtEh0AH0/XEIUQH7YT6I/AAAAAAAAb5g/7MkrdQigbaIq7-cXhFsscl8zxu1QfQqJgCK4BGAYYCw/s1600/Screenshot%2Bfrom%2B2019-01-18%2B23-28-07.png)
@@ -76,8 +76,8 @@ Then leave it open like that.
 9. Start the React front end from the local server
     ```sh
     # console three
-    cd Sale-Place
-    npm start
+    cd Sale-Place/client
+    npm run start
     ```
     Be sure to configure MetaMask using the the mnemonic phrase provided by your ganache:
     ```
@@ -91,6 +91,6 @@ Then leave it open like that.
     and then refresh the app page.Please confirm the network url from the truffle GUI/CLI 
     Once the app recognizes your MetaMask account you are good to go!
     
-You will need to setup a firebase project and configure it [here](https://github.com/anandmv/Sale-Place/blob/master/client/src/firebase-config.js) before you start you can follow the procedure given [here](https://dev.to/itnext/react-with-firebase-firestore-setup-4ch3).
+You will need to setup a firebase project and configure it [here](https://github.com/ensiehgoo/SalePlace/blob/master/client/src/firebase-config.js) before you start you can follow the procedure given [here](https://dev.to/itnext/react-with-firebase-firestore-setup-4ch3).
 
 
