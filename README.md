@@ -1,32 +1,31 @@
 # Sale Place 
 
-Ethereum based e-commerce app for sale
-A decentralized application running on Ethereum were a user can purchase/sell an item and track/update its status on the go.
+A decentralized application running on Ethereum where a user can purchase/sell an item and track/update its status.
 
 [EtherScan Contract Deployed Address](https://rinkeby.etherscan.io/address/0x5526d108b8a002ec2a46d000bb31fd35d263cd5c)
 
 ## What's a Sale Place
-Decentralized marketplace is a blockchain-based e-commerce app. There is two types of users buyer and seller
+Sale Place is a blockchain-based e-commerce app. There is two types of users buyer and seller.
 
 ## Seller' role
-1. Seller can sell an item
-2. Seller can enlist items as many as possible
-3. Sellers can update the item details that they created
-4. Sellers can see the items list but can't buy item that they have creted
-5. Sellers can refund the purchase amount of an item once they have recieved
-6. Seller can set the status of a purchase item from purchase to shipped
-7. Sellers have the purchase history of an item they have enlisted
+1. Seller can sell an item.
+2. Seller can enlist items as many as possible.
+3. Sellers can update the item details that they created.
+4. Sellers can see the items list but can't buy item that they have created.
+5. Sellers can refund the purchase amount of an item once they have recieved.
+6. Seller can set the status of a purchase item from purchased to shipped.
+7. Sellers have the purchase history of an item they have enlisted.
 
 ## Buyer Actions
-1. Buyers can buy an item that they don't create
-2. Buyers can see the list of item they have purcahsed
+1. Buyers can buy an item that they don't have created.
+2. Buyers can see the list of items they have purcahsed.
 2. Buyer can see the list of items available in the market
-4. Buyer can set the item status as received only if shipped
+4. Buyer can set the item status as received only if shipped.
 
 
 
 ## Running locally
-1.MetaMask can be installed from the [Firefox add-ons store](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/).
+1.MetaMask can be installed from the [Chrome web store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)for Google Chrome or [Firefox add-ons store](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/) for Firefox.
 
 2.If you want to use local blockchain, install ganache according to your operating system from [here](https://www.trufflesuite.com/ganache)
 
